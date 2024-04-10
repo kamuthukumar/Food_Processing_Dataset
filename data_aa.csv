@@ -1,0 +1,128 @@
+﻿Sl.no,Ingredients,Raw Protein,Technique,Temperature,Time,Protein content Processed
+1,Rice- Xinfeng 2 (X2),8.11,Washing ,25,5,8.02
+,,8.11,Soaking,25,30,8.08
+,,8.11,Normal cooking ,90,20,8.18
+,,8.11,High-pressure cooking,121,9,8.17
+,,8.11,Microwave oven,100,18,8.11
+2,Rice-Indica cultivar T-You15 (T15),8.58,Washing ,25,5,8.48
+,,8.58,Soaking,25,30,8.45
+,,8.58,Normal cooking ,90,60,8.5
+,,8.58,High-pressure cooking,60,28,8.44
+,,8.58,Microwave oven,100,10,8.5
+4,Terminalia catappa (Indian almond),16.36,Boiled,100,10,17.62
+,,16.36,Dried (solar dryer),60,10,19.19
+,,16.36,Roasted,75,10,18.89
+5,Bean seeds-Raba,24.8,Cooking,90,15,23
+,,24.8,cooked and frozen ,18,30240,22.1
+,,24.8,Autoclaving ,121,15,21.8
+6,Bean seeds-Warta,26.2,Cooking,90,15,21.3
+,,26.2,cooked and frozen ,18,30240,21.9
+,,26.2,Autoclaving ,121,15,21
+7,Pea seeds-Milwa,25.9,Cooking,90,15,27.6
+,,25.9,cooked and frozen ,18,30240,25
+,,25.9,Autoclaving ,121,15,24.4
+8,Pea seeds-Medal,28.4,Cooking,90,15,27.5
+,,28.4,cooked and frozen ,18,30240,27.4
+,,28.4,Autoclaving ,121,15,27.1
+9,Lentil seeds-Anita,28.7,Cooking,90,15,29.2
+,,28.7,cooked and frozen ,18,30240,29.1
+,,28.7,Autoclaving ,121,15,28.2
+10,Lentil seeds-Tina,28.6,Cooking,90,15,30
+,,28.6,cooked and frozen ,18,30240,28.8
+,,28.6,Autoclaving ,121,15,28.7
+11,Mungbeans (Vigna radiata (L.) Wilczek),24.08,Boiled ,100,45,21.86
+,,24.08,Toasted ,120,45,17.51
+,,24.08,Sprouted,25,4320,37.17
+12,Chickpea seeds (Cicer arietinum L.),23.64,Germination ,28,720,25.53
+,,23.64,Boiling ,100,90,23.21
+,,23.64,Autoclaving ,121,35,23.15
+,,23.64,Microwave cooking ,100,15,23.16
+13,Faba beans (Vicia faba),28.97,"Unsoaked, Extruded",180,15,28.89
+,,29.61,"Soaked, Extruded",180,15,28.41
+14,Pea seeds (Pisum sativum),26.53,"Unsoaked, Extruded",180,15,25.53
+,,26.99,"Soaked, Extruded",180,15,25.69
+15,Chickpeas (Cicer arietinum),25.2,"Unsoaked, Extruded",180,15,25.02
+,,26.3,"Soaked, Extruded",180,15,26.14
+16,Kidney beans (Phaseolus vulgaris),25.66,"Unsoaked, Extruded",180,15,25.5
+,,25.73,"Soaked, Extruded",180,15,25.6
+17,Faba bean: Vicia faba,270,Dehulling,25,30,313
+,,270,Soaking,30,720,269
+,,270,Germination,25,1440,272
+,,270,Extrusion,156,7,271
+18,Kidney bean: Phaseolus vulgaris,238,Dehulling,25,30,253
+,,238,Soaking,30,720,239
+,,238,Germination,25,1440,241
+,,238,Extrusion,156,7,240
+19,Green gram (Phaseolus aureus),27.7,Germination,23.5,1440,29.1
+,,27.7,dehulling,23.5,60,29.9
+20,"cowpea (Vigna catjang),",25.7,Germination,23.5,1440,27.2
+,,25.7,dehulling,23.5,60,28.4
+21,lentil (Lens culinaris),26.5,Germination,23.5,1440,28.5
+,,26.5,dehulling,23.5,60,29.6
+22,chickpea (Cicer arietinum),22.1,Germination,23.5,1440,24.2
+,,22.1,dehulling,23.5,60,27.2
+23,Sorghum grain,11.01,Extrusion,25,10,10.67
+24,Fenugreek seeds ,32.7,Soaking,27,720,35.1
+,,32.7,Germination,27,1440,41.2
+,,32.7,Roasting,130,7,36.8
+25,Buckwheat(F. esculentum Moench),15.85,Roasting,160,6,17.35
+,,15.85,Fermentation,37,1440,30.55
+,,15.85,Roasted fermentation,37,1440,26.25
+26,Chickpea,22.09,Fermentaion,37,360,20.24
+27,Baobab fruit,4.28,Fermentation,37,2160,5.01
+28,Beans-ROBA 1,20.65,Roasting,170,45,21.37
+,,20.65,Extrusion,60,25,20.97
+29,Beans- K131,23.14,Roasting,170,45,24.66
+,,23.14,Extrusion,60,25,21.69
+30,Wheat,17.46,Sprouting,30,1440,17.34
+31,barley,14.02,Sprouting,30,1440,13.61
+32,chickpea,25.2,Sprouting,30,1440,24.82
+33,Lentil,30.07,Sprouting,30,1440,31.57
+34,Quinoa,20.64,Sprouting,30,1440,18.25
+35,Samh (Mesembryanthemum forsskalei),20.2,Roasting,170,6,21.6
+,,20.2,Cooking,90,60,20.8
+,,20.2,Baking,190,20,18.3
+36,Sorghum,8.8,Sprouting,27,1440,9
+37,Buckwheat (F. esculentum),14.47,Boiling,100,30,13.82
+,,14.47,High Hydrostatic Pressure,60,30,14.18
+,,14.47,Microwave,100,30,14.39
+38,Lupin,35.77,Solid State fermentation,30,10080,36
+39,Chickpea seeds (Cicer arietinum L.),22.1,Extrusion,22,2880,21.85
+40,Maize mini grits (Zea mays L.),6.49,Extrusion,22,2880,6.54
+41,Kabuli Chickpea (CDC Orion),21.1,Roasting,160,30,23.5
+42,Green lentil (Greenstar),22,Roasting,160,30,24.1
+43,Yellow pea (CDC Spectrum),21.6,Roasting,160,30,23.8
+44,Navy bean (Nautica),24,Roasting,160,30,23.2
+45,Bambara Groundnut,82.3,Boiling,100,30,81.3
+,,82.3,Roasting,120,45,80.4
+,,82.3,Fermentation,30,5760,83.2
+46,Linseed (Linum usitatissium L.),23.26,Microwave,65,7,24.76
+47,Highland Barley,9.9,Germination,130,40,10.8
+48,Dunal seeds (Monodora myristica),23.32,Boiling,100,10,20.42
+,,23.32,Roasting,120,10,21.23
+49,Jasmine Bran Rice Hydrolysate,42.62,Pasteurization,72,15,43.07
+,,42.62,Sterilisation,121,15,43.79
+50,Horse seed gram-GMP-6,22.7,Pressure cooking,80,17,23.06
+,,22.7,Pressure cooking and flaking,80,20,22.72
+,,22.7,Microwave cooking,80,15,22.92
+,,22.7,Microionization cooking,80,10,22.05
+,,22.7,Extrusion cooking,160,10,24.67
+51,Horse seed gram-PAYIUR-2,24.71,Pressure cooking,80,17,23.97
+,,24.71,Pressure cooking and flaking,80,20,23.36
+,,24.71,Microwave cooking,80,15,23.8
+,,24.71,Microionization cooking,80,10,23.86
+,,24.71,Extrusion cooking,160,10,24.96
+52,Finger millet,6.3,Germination,30,2880,8.8
+,,6.3,Popping,70,10,7.1
+53,Bean seeds (Giza),23.8,Irradiation,20,15,21.95
+54,Faba bean- BB7-S1,32.97,Irradiation,25,8,36.3
+55,Faba bean- SH-S2,32.68,Irradiation,25,8,35.5
+56,Mucuna pruriens seeds,23.21,Irradiation,25,7,31.06
+57,Chickpea,21.98,irradiation,23,7,22.86
+58,Pea flour,19.11,Extrusion,70,10,20.2
+59,Red lentil,25.13,Extrusion,75,8,26.86
+,,25.13,Baking,95,4,25.93
+,,25.13,Cooking,90,30,26.62
+60,Green lentil,23.93,Extrusion,75,8,24.65
+,,23.93,Baking,95,4,25.44
+,,23.93,Cooking,90,30,25.67
